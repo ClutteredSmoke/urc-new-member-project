@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=LaunchpadHeader.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=LaunchpadHeader.SchDoc|FileName=MainBoard.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=LaunchpadHeader.SchDoc|FileName=StatusLEDs.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=LaunchpadHeader.SchDoc|FileName=TemperatureSensor.SchDoc|SheetNumber=3
